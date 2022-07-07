@@ -1,5 +1,5 @@
 # Hi, I'm Duy N. Huynh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joshhn/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshhn/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duyhn.josh/)
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]() -->
 
@@ -15,5 +15,5 @@
 ## Github Stats <img src="https://c.tenor.com/ZULdaf8iCHgAAAAi/100-discord.gif" width="28"/>
   
  <a href="https://github.com/joshhn"><img alt="Duy Huynh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=joshhn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/joshhn"><img alt="Duy Huynh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshhn&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=javascript,html,scss" height="192px"/></a>
+<!--   <a href="https://github.com/joshhn"><img alt="Duy Huynh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshhn&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=javascript,html,scss" height="192px"/></a> -->
 </p>
