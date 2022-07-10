@@ -6,8 +6,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+meet+you!;I'm+a+CS+Junior.)](https://git.io/typing-svg)
 
 ## About Me <img src="https://c.tenor.com/uZFq07-ujK8AAAAi/man-shrugging-joypixels.gif" width="28"/>
-* 💻 I'm currently working on Android projects</a> 
-* 🌱 I'm currently learning Android Development. 
+* 💻 I'm currently working on Android projects (Kotlin). 
+* 🌱 I'm currently learning Android Development and Linux. 
 * 📫  How to reach me: duyhuynh_2024@depauw.edu / duy.huynhngoc.05@gmail.com (Personal)
 <p align="center">
 
