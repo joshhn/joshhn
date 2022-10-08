@@ -10,6 +10,7 @@
 <!--* 🌱 I'm currently learning Android Development and Linux.-->
 * 📫  How to reach me: duyhuynh_2024@depauw.edu / duy.huynhngoc.05@gmail.com (Personal)
 <p align="center">
+  
 ## Github Stats 
   
  <a href="https://github.com/joshhn"><img alt="Duy Ngoc Huynh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=joshhn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
