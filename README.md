@@ -1,7 +1,5 @@
 # Hi 👋 My name is Duy Huynh! 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%1c1917&size=25&height=40&lines=I'm+a+CS+Junior.;Nice+to+meet+you!)](https://git.io/typing-svg)
-
 ## About Me 
 
 *   💻  I'm studying Computer Science at DePauw University '24
