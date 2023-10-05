@@ -2,9 +2,9 @@
 
 ## About Me 
 
-*   💻  I'm studying Computer Science at DePauw University '24
-*   🧠  Currently working on Android projects
-*   🌱  Interested in android dev, trading, algorithms, blockchain, distributed systems, and databases
+*   💻  I'm studying Computer Science at WashU '25
+*   🧠  Currently working on C++ projects
+*   🌱  Interested in C++, parallel computing, algorithms, distributed systems, and databases
 *   📫  Contact me at: [duy.huynhngoc.05@gmail.com](mailto:duy.huynhngoc.05@gmail.com)
 
 ### Socials
